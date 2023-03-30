@@ -1,11 +1,11 @@
-About xeus-nelson
-=================
+About xeus-nelson-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xeus-nelson-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jupyter-xeus/xeus-nelson
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xeus-nelson-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Jupyter kernel for the Nelson programming language based on Xeus
 
